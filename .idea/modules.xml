@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SingleResponsibility.iml" filepath="$PROJECT_DIR$/SingleResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleResponsibilityActivity.iml" filepath="$PROJECT_DIR$/SingleResponsibilityActivity.iml" />
     </modules>
   </component>
 </project>
